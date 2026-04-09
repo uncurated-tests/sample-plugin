@@ -1,5 +1,5 @@
 ---
-name: explain-error
+name: new-skill
 description: Explains error messages and stack traces. Use when the user shares an error, exception, or crash log and wants to understand what went wrong.
 ---
 
