@@ -8,7 +8,6 @@
       "name": "devtools",
       "source": "./",
       "description": "Full-featured development toolkit with code review, linting, security scanning, and database tools.",
-      "version": "2.0.2",
       "author": {
         "name": "Open Plugin Examples",
         "url": "https://github.com/anthropics/open-plugin"
