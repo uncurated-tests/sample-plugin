@@ -1,6 +1,6 @@
 {
   "name": "devtools",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Full-featured development toolkit with code review, linting, security scanning, and database tools.",
   "author": {
     "name": "Open Plugin Examples"
